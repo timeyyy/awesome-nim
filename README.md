@@ -81,6 +81,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Blogs
 
+* [Marie & Mamy's Insights](https://andre-ratsimbazafy.com/?s=nim) - Some articles mentioning Nim
 * [Nim Blog](http://nim-lang.org/blog.html) - Official Nim blog
 * [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links
 * [HookRace](http://hookrace.net) - a Nim blog for now
