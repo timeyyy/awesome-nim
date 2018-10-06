@@ -226,6 +226,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 * [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links.
 * [HookRace](http://hookrace.net) - Nim blog for now.
 * [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - Posts on Nim and other languages.
+* [Yuriy Glukhov's blog](https://yglukhov.github.io/) - Making and shipping a game in Nim
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
